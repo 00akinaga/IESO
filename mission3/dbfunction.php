@@ -3,7 +3,7 @@
 header('Content-Type: text/html; charset=UTF-8');
 function dbconnect(){
 
-$dbserver = "サーバ;
+$dbserver = "サーバ";
 $dbuser = "ユーザ名";
 $dbpass = "パスワード";
 $dbname = "データベース名";
